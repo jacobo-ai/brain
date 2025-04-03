@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"2ad3f1c0252ac6df","x":-355,"y":-216,"width":435,"height":476,"type":"text","text":" Systems \n\n1. ** bundles** : allow one to send a list of transactions that get executed atomically, and all or nothing.\n2. Bundles can be used for atomic\n\n\n"}
+	],
+	"edges":[]
+}

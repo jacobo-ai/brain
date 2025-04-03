@@ -34,9 +34,72 @@
               "icon": "lucide-file",
               "title": "Modulo"
             }
+          },
+          {
+            "id": "4fa99d449981aaab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Jito/Overview.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Overview"
+            }
+          },
+          {
+            "id": "94a621d4d6c6c4be",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Jito/Overview.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Overview"
+            }
+          },
+          {
+            "id": "090b43fa9d6f0fa4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Jito/Overview.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Overview"
+            }
+          },
+          {
+            "id": "3a1f6138736b1bda",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Z imagines/Pasted image 20250326093556.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250326093556"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,8 +228,19 @@
               "icon": "lucide-list",
               "title": "Outline of Modulo"
             }
+          },
+          {
+            "id": "951ea39a6e7e8853",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,17 +254,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8f858d7acc65c1f1",
+  "active": "3a1f6138736b1bda",
   "lastOpenFiles": [
+    "Jito/Overview.canvas",
+    "Jito/Notes.md",
+    "Network enginnering/OSI model.md",
+    "Mev/Intro.md",
     "cmd.md",
-    "Modulo.md",
-    "Untitled 1",
-    "Untitled",
-    "Untitled 1.md",
     "hello.md",
+    "Z imagines/Pasted image 20250326093556.png",
+    "Pasted image 20250326093655.png",
+    "Pasted image 20250326093600.png",
+    "Pasted image 20250326093553.png",
+    "Z imagines",
+    "Network enginnering",
+    "Jito.md",
+    "Jito",
+    "Modulo.md",
+    "Mev",
+    "Untitled 1",
+    "Untitled 1.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Untitled 2.md"
